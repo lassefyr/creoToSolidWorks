@@ -25,11 +25,11 @@ After initial trial it seems that (todo)
 
 I do not know how to create multiple cable asseblies from a single from-to excel file.
 
-Connector mating (single coordinate) was something I did not succeed in without selecting each 
+Connector mating (single coordinate) was something I did not succeed in without selecting each<br>
 connector separately and telling it to "Aling Axes". 
 
 I will continue this project when/if we start to adopt SW more in our desings.
 
-As always... If your company has money then please use...
-Creo Schematic for Creo
-Solidworks Electrical for Solidworks
+As always... If your company has money then please use
+* Creo Schematic for Creo
+* Solidworks Electrical for Solidworks
